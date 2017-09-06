@@ -1,8 +1,9 @@
 # Eye_Data
 Public Data of the PLOS ONE paper:
 
-Estimation of the mechanical properties of the eye through the study of its vibrational modes
-by
+"Estimation of the mechanical properties of the eye through the study of its vibrational modes"
+
+Authors: 
 M.Á. Aloy(1),
 J.E. Adsuara(1),
 P. Cerdá-Durán(1),
@@ -12,6 +13,7 @@ T. Ferrer-Blasco(2),
 R. Montés-Micó(2)
 
 (1) Department of Astronomy and Astrophysics. University of Valencia. 46100 Burjassot. Spain.
+
 (2) Department of Optics and Optometry and Vision Sciences. University of Valencia. 46100 Burjassot. Spain.
 
 The complete data-set employed to produce the paper has been uploaded in
